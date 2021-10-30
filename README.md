@@ -13,6 +13,14 @@
 - Manipular Javascript
 
 ---
+
+## Antes de iniciar
+
+- Crie um Fork desse projeto. Siga esse [tutorial](https://guides.github.com/activities/forking/).
+- Após o fork, clone o repositório criado para o seu computador.
+- Não se esqueça de rodar `npm instal`.
+
+---
 ## Linter
 
 Para garantir a qualidade do código, vamos utilizar neste projeto os linters `ESLint` e `StyleLint`.
