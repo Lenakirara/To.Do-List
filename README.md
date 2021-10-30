@@ -6,7 +6,7 @@
 
 - Será desenvolvido uma lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
 
-# Habilidades desenvolvidas
+## Habilidades desenvolvidas
 
 - Manipular CSS
 
